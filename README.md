@@ -2,7 +2,7 @@
 **rxdavim/rxdavim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Hi there 👋
-![](./DavimDA_photo_RxBlakelyGeorgiaUSA.JPG)
+![](./pic.png)
 
 :evergreen_tree: I am a Forestry and Natural Resources PhD student which main research interests are fire ecology and management with special focus on prescribed fire, fire behaviour and pyrogeography. My work is :moneybag: supported by FCT, and  :mailbox_closed: hosted at CEF/ISA, University of Lisbon.
 
